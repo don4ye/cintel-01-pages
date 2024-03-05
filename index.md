@@ -1,8 +1,10 @@
-<style>
-body {
-    background-color: lightblue;
-}
-</style>
+Gem::Specification.new do |s|
+  s.name          = "jekyll-theme-midnight"
+  s.version       = "0.1.1"
+  s.version       = "0.2.0"
+  s.license       = "CC0-1.0"
+  s.authors       = ["Matt Graham", "GitHub, Inc."]
+  s.email         = ["opensource+jekyll-theme-midnight@github.com"]
 
 # Welcome to [Monsuru Adebisi]'s Awesome Website
 
