@@ -1,17 +1,34 @@
-# Welcome to My Awesome Website
+<style>
+body {
+    background-color: lightblue;
+}
+</style>
 
-This is my first website using Markdown and GitHub Pages.
+# Welcome to [Monsuru Adebisi]'s Awesome Website
 
-## Useful Links
+This is the personal website of [Monsuru Adebisi]. Welcome!
 
-Here are some helpful links:
+## About Me
 
-- [My favorite AI assistant](https://chat.openai.com/) - Get to know more about AI!
+I'm a **Data Analytics** enthusiast with a passion for:
 
-## Beautiful Images
+- Data Visualization
+- Data Storytelling
+- Predictive Analytics
+- Machine Learning
+- Data Ethics and Privacy
+- Data Quality and Governance
+- Business Intelligence
+- Environmental Sustainability
 
-Check out this beautiful image:
+On this website, you'll find information about my projects, interests, and more.
 
-![Nature](https://example.com/nature.jpg)
+## My Projects
 
-Photo by [Robs](https://unsplash.com/@robinne?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-group-of-people-standing-next-to-each-other-HOrhCnQsxnQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+Check out some of my projects:
+
+- [Project 1 - DataFun-07-Applied](https://github.com/don4ye/datafun-07-applied): This project documentation outlines the process taken to predict the average high temperature in New York City (NYC) for the month of January and to perform linear regression analysis using the California Housing Dataset.
+
+## Contact Me
+
+Feel free to reach out to me at [**@gmail.com] for any inquiries or collaborations.
